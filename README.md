@@ -1,5 +1,4 @@
 <h2> Hi There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-<img src="https://pixabay.com/gifs/pixel-art-pixel-retro-office-12601/pixel-art-12601_256.gif" width="100px">
 <div align="left" width="50">
 </div>
 
