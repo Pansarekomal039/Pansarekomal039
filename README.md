@@ -5,8 +5,8 @@
 
 # Pansare Komal
 
-<h2><img src="https://github.com/Pansarekomal039/Pansarekomal039/blob/main/pixel-art-12601_256.gif" width="30px"></h2>
-<div align="left" width="50">
+<h2><img src="https://github.com/Pansarekomal039/Pansarekomal039/blob/main/pixel-art-12601_256.gif" width="300px"></h2>
+<div align="left" width="100">
 </div>    
     
 
