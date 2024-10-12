@@ -5,12 +5,12 @@
 
 # Pansare Komal
 
-//<h2><img src="https://github.com/Pansarekomal039/Pansarekomal039/blob/main/pixel-art-12601_256.gif" width="300px"></h2>//
+<h2><img src="https://github.com/Pansarekomal039/Pansarekomal039/blob/main/pixel-art-12601_256.gif" width="300px" text align="left"></h2>
 <div align="left" width="100">
 </div>    
     
 
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <!---
 Pansarekomal039/Pansarekomal039 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
