@@ -4,14 +4,14 @@
 
 
 # Pansare Komal
-
+<!--
 <h2><img src="https://github.com/Pansarekomal039/Pansarekomal039/blob/main/pixel-art-12601_256.gif" width="300px" text align="left"></h2>
 <div align="left" width="100">
 </div>    
     
 
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
 Pansarekomal039/Pansarekomal039 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
