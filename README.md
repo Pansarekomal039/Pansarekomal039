@@ -1,40 +1,49 @@
-<h2> Hi There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-<div align="left" width="50">
-  
-# Pansare Komal
-</div>
-<!--
-**Pansarekomal039/Pansarekomal039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Komal Pansare!
-🌱 MSc Computer Science Student | 💻 Aspiring Web & Mobile Developer
-
-### 🚀 Tech Stack:
-- 🔧 Languages: JavaScript, C++, Python
-- 📱 Mobile: React Native (Expo)
-- 🌐 Web: HTML, CSS, JavaScript, Node.js, Firebase
-- 💾 DB: MySQL, Firestore
-
-### 📌 Projects:
-- 🧭 Restaurant Queue Management System
-- 🕳️ Pothole Detection App
-- 📍 Location-based Restaurant Finder
-
-### 📈 GitHub Stats:
-![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalpansare&show_icons=true&theme=radical)
+<h2> Hi There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Komal!</h2>
 
 ---
 
-💬 Let's connect: [LinkedIn](your-link) | 📫 Email: your@email.com
+# 👩‍💻 Komal Pansare
+🎓 MSc Computer Science | 🌐 Web & 📱 Mobile Developer | 🚀 Learning Every Day
 
+---
+
+### 🚀 Tech Stack
+- **Languages:** JavaScript, C++, Python  
+- **Frontend:** HTML, CSS, React Native (Expo)  
+- **Backend:** Node.js, Firebase  
+- **Database:** MySQL, Firestore  
+
+---
+
+### 📌 Projects
+- 🧭 [Restaurant Queue Management System](#)  
+- 🕳️ [Pothole Detection App](#)  
+- 📍 [Location-based Restaurant Finder](#)  
+
+_Add project links above if hosted on GitHub or live demo available_
+
+---
+
+### 📊 GitHub Stats
+
+![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pansarekomal039&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pansarekomal039&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pansarekomal039&theme=radical)](https://git.io/streak-stats)
+
+---
+
+### 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/)
+- 📧 Email: your@email.com
+
+---
+
+### 💡 Fun Facts
+- 🌱 Currently exploring full-stack development
+- ✨ Love turning ideas into real apps
+- ☕ Always up for coffee & code!
+
+---
+
+### 🏆 GitHub Trophy (Optional)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pansarekomal039&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
