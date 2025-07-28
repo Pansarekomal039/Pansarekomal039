@@ -17,3 +17,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Komal Pansare!
+🌱 MSc Computer Science Student | 💻 Aspiring Web & Mobile Developer
+
+### 🚀 Tech Stack:
+- 🔧 Languages: JavaScript, C++, Python
+- 📱 Mobile: React Native (Expo)
+- 🌐 Web: HTML, CSS, JavaScript, Node.js, Firebase
+- 💾 DB: MySQL, Firestore
+
+### 📌 Projects:
+- 🧭 Restaurant Queue Management System
+- 🕳️ Pothole Detection App
+- 📍 Location-based Restaurant Finder
+
+### 📈 GitHub Stats:
+![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalpansare&show_icons=true&theme=radical)
+
+---
+
+💬 Let's connect: [LinkedIn](your-link) | 📫 Email: your@email.com
+
