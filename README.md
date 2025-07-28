@@ -1,23 +1,18 @@
-<h2> Hi There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Komal!</h2>
+<h2> Hi There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 ---
 
-# 👩‍💻 Komal Pansare
+# 👩‍💻 I'm Komal Pansare
 🎓 MSc Computer Science | 🌐 Web & 📱 Mobile Developer | 🚀 Learning Every Day
 
 ---
 
 ### 🚀 Tech Stack
-- **Languages:** JavaScript, C++, Python  
+- **Languages:** JavaScript, C++, C 
 - **Frontend:** HTML, CSS, React Native (Expo)  
-- **Backend:** Node.js, Firebase  
 - **Database:** MySQL, Firestore  
 
 ---
-
-
-
-_Add project links above if hosted on GitHub or live demo available_
 
 ---
 
