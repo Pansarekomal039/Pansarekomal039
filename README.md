@@ -3,7 +3,7 @@
 ---
 
 # 👩‍💻 I'm Komal Pansare
-🎓 MSc Computer Science | 🌐 Web & 📱 Mobile Developer | 🚀 Learning Every Day
+🎓 MSc Scientific Computing | 🌐 Web & 📱 Mobile Developer | 🚀 Learning Every Day
 
 ---
 
@@ -27,10 +27,10 @@
 - 📧 Email: pansarekomal39@gmail.com
 
 ---
-
+<--
 ### 💡 Fun Facts
 - 🌱 Currently exploring full-stack development
 - ✨ Love turning ideas into real apps
 - ☕ Always up for coffee & code!
-
+-->
 ---
