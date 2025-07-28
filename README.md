@@ -18,7 +18,6 @@
 
 ### 📊 GitHub Stats
 
-![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pansarekomal039&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pansarekomal039&theme=radical)](https://git.io/streak-stats)
 
 ---
