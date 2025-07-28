@@ -15,10 +15,7 @@
 
 ---
 
-### 📌 Projects
-- 🧭 [Restaurant Queue Management System](#)  
-- 🕳️ [Pothole Detection App](#)  
-- 📍 [Location-based Restaurant Finder](#)  
+
 
 _Add project links above if hosted on GitHub or live demo available_
 
@@ -27,14 +24,13 @@ _Add project links above if hosted on GitHub or live demo available_
 ### 📊 GitHub Stats
 
 ![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pansarekomal039&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pansarekomal039&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pansarekomal039&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ### 📫 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 📧 Email: your@email.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/komal-pansare-7321b3267/)
+- 📧 Email: pansarekomal39@gmail.com
 
 ---
 
@@ -44,6 +40,3 @@ _Add project links above if hosted on GitHub or live demo available_
 - ☕ Always up for coffee & code!
 
 ---
-
-### 🏆 GitHub Trophy (Optional)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pansarekomal039&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
