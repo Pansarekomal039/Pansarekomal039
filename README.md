@@ -24,7 +24,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/komal-pansare-7321b3267/)
 - 📧 Email: pansarekomal39@gmail.com
 
-<--
+<!--
 ### 💡 Fun Facts
 - 🌱 Currently exploring full-stack development
 - ✨ Love turning ideas into real apps
