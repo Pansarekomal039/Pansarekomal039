@@ -16,7 +16,8 @@
 
 ### 📊 GitHub Stats
 
-![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pansarekomal039&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pansarekomal039&theme=radical)](https://git.io/streak-stats)
+
 
 
 ---
