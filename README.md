@@ -16,7 +16,8 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pansarekomal039&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pansarekomal039&theme=radical)](https://git.io/streak-stats)
+
 
 
 
