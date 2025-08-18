@@ -2,7 +2,7 @@
  
 
 # 👩‍💻 I'm Komal Pansare
-🎓 MSc Scientific Computing | 🌐 Web & 📱 Mobile Developer | 🚀 Learning Every Day
+🎓 MSc Scientific Computing | <!--🌐 Web &--> 📱 Mobile Developer | 🚀 Learning Every Day
 
 ---
 
@@ -12,6 +12,12 @@
 - **Database:** MySQL, Firestore  
 
 ---
+
+### 👩‍💻 About Me  
+I’m a passionate MSc Scientific Computing student and developer who loves solving problems with code.  
+- 🔭 Currently building **React Native apps** with Firebase & Node.js  
+- 🌱 Learning **DSA, System Design, and Game Development (Unity)**  
+- 💡 Interested in **Mobile Development, Full-Stack Projects, and AI Applications**  
 
 
 <!--### 📊 GitHub Stats
