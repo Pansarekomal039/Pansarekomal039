@@ -1,4 +1,4 @@
-![Komal Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Komal%20Pansare&fontSize=50&fontColor=fff)
+![Komal Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20&fontSize=50&fontColor=fff)
 
 
 <h2> Hi There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
