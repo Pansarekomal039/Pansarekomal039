@@ -1,17 +1,14 @@
-![Komal Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20&fontSize=50&fontColor=fff)
-
-
+<!--![Komal Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20&fontSize=50&fontColor=fff) -->
 <h2> Hi There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
  
-
 # 👩‍💻 I'm Komal Pansare
 🎓 MSc Scientific Computing | <!--🌐 Web &--> 📱 Mobile Developer | 🚀 Learning Every Day
 
-   I’m a passionate MSc Scientific Computing student who loves solving problems with code.  
+<!--   I’m a passionate MSc Scientific Computing student who loves solving problems with code.  
 - 🎨 Love exploring UI/UX design  
 - 🌱 Learning **DSA**  
 - 💡 Interested in **Mobile Development**  
-
+-->
 ---
 
 ### 🚀 Tech Stack
