@@ -14,7 +14,7 @@
 ---
 
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pansarekomal039&theme=radical)](https://git.io/streak-stats)
 
@@ -22,6 +22,7 @@
 
 
 ---
+-->
 
 ### 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/komal-pansare-7321b3267/)
